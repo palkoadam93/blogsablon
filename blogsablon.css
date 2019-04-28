@@ -54,17 +54,17 @@ table {
 
 .main-header {
   text-align: center;
-	padding: 1.25rem;
+  padding: 1.25rem;
   color: #fff;
-	/*background-color: #42444e;*/
+  /*background-color: #42444e;*/
 }
 
 .primary-content {
-	/*background-color: rgba(140, 96, 255, .3);*/
+  /*background-color: rgba(140, 96, 255, .3);*/
 }
 
 .post {
-	/*background-color: rgba(255, 0, 0, .3);*/
+  /*background-color: rgba(255, 0, 0, .3);*/
 }
 
 /* ==== BASE STYLES ==== */
@@ -109,7 +109,7 @@ a:hover {
 h1,h2,h3,h4,h5,h6,hgroup,
 ul,ol,dd,
 p,figure,
-pre,table,fieldset,hr
+pre,table,fieldset,hr /*ide nem kell egy vessző?*/
 img,
 .main-header, .primary-content {
     margin-bottom: 1rem;
